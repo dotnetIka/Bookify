@@ -1,0 +1,17 @@
+/Users/irakli/Downloads/Bookify/src/Bookify.Infrastructure/bin/Debug/net7.0/Bookify.Infrastructure.deps.json
+/Users/irakli/Downloads/Bookify/src/Bookify.Infrastructure/bin/Debug/net7.0/Bookify.Infrastructure.dll
+/Users/irakli/Downloads/Bookify/src/Bookify.Infrastructure/bin/Debug/net7.0/Bookify.Infrastructure.pdb
+/Users/irakli/Downloads/Bookify/src/Bookify.Infrastructure/bin/Debug/net7.0/Bookify.Application.dll
+/Users/irakli/Downloads/Bookify/src/Bookify.Infrastructure/bin/Debug/net7.0/Bookify.Domain.dll
+/Users/irakli/Downloads/Bookify/src/Bookify.Infrastructure/bin/Debug/net7.0/Bookify.Application.pdb
+/Users/irakli/Downloads/Bookify/src/Bookify.Infrastructure/bin/Debug/net7.0/Bookify.Domain.pdb
+/Users/irakli/Downloads/Bookify/src/Bookify.Infrastructure/obj/Debug/net7.0/Bookify.Infrastructure.csproj.AssemblyReference.cache
+/Users/irakli/Downloads/Bookify/src/Bookify.Infrastructure/obj/Debug/net7.0/Bookify.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irakli/Downloads/Bookify/src/Bookify.Infrastructure/obj/Debug/net7.0/Bookify.Infrastructure.AssemblyInfoInputs.cache
+/Users/irakli/Downloads/Bookify/src/Bookify.Infrastructure/obj/Debug/net7.0/Bookify.Infrastructure.AssemblyInfo.cs
+/Users/irakli/Downloads/Bookify/src/Bookify.Infrastructure/obj/Debug/net7.0/Bookify.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/irakli/Downloads/Bookify/src/Bookify.Infrastructure/obj/Debug/net7.0/Bookify.Infrastructure.csproj.CopyComplete
+/Users/irakli/Downloads/Bookify/src/Bookify.Infrastructure/obj/Debug/net7.0/Bookify.Infrastructure.dll
+/Users/irakli/Downloads/Bookify/src/Bookify.Infrastructure/obj/Debug/net7.0/refint/Bookify.Infrastructure.dll
+/Users/irakli/Downloads/Bookify/src/Bookify.Infrastructure/obj/Debug/net7.0/Bookify.Infrastructure.pdb
+/Users/irakli/Downloads/Bookify/src/Bookify.Infrastructure/obj/Debug/net7.0/ref/Bookify.Infrastructure.dll

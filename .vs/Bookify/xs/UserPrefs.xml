@@ -1,0 +1,89 @@
+﻿<Properties StartupConfiguration="{ADD5AF21-A432-4B22-BA2A-479AE85F98FC}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.src.Bookify.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/Bookify.Infrastructure/Configurations/ApartmentConfiguration.cs">
+    <Files>
+      <File FileName="src/Bookify.Domain/Abstractions/Entity.cs" Line="28" Column="42" />
+      <File FileName="src/Bookify.Domain/Abstractions/Error.cs" Line="1" Column="1" />
+      <File FileName="src/Bookify.Domain/Abstractions/IDomainEvent.cs" Line="5" Column="39" />
+      <File FileName="src/Bookify.Domain/Abstractions/Result.cs" Line="5" Column="14" />
+      <File FileName="src/Bookify.Domain/Abstractions/IUnitOfWork.cs" Line="5" Column="23" />
+      <File FileName="src/Bookify.Domain/Apartments/Address.cs" />
+      <File FileName="src/Bookify.Domain/Apartments/Amenity.cs" />
+      <File FileName="src/Bookify.Domain/Apartments/Apartment.cs" />
+      <File FileName="src/Bookify.Domain/Apartments/ApartmentErrors.cs" />
+      <File FileName="src/Bookify.Domain/Apartments/Description.cs" />
+      <File FileName="src/Bookify.Domain/Apartments/IApartmentRepository.cs" />
+      <File FileName="src/Bookify.Domain/Apartments/Name.cs" />
+      <File FileName="src/Bookify.Domain/Bookings/Booking.cs" />
+      <File FileName="src/Bookify.Domain/Bookings/Events/BookingCompletedDomainEvent.cs" />
+      <File FileName="src/Bookify.Domain/Bookings/Events/BookingCancelledDomainEvent.cs" />
+      <File FileName="src/Bookify.Domain/Bookings/Events/BookingConfirmedDomainEvent.cs" />
+      <File FileName="src/Bookify.Domain/Bookings/Events/BookingRejectedDomainEvent.cs" />
+      <File FileName="src/Bookify.Domain/Bookings/Events/BookingReservedDomainEvent.cs" />
+      <File FileName="src/Bookify.Domain/Reviews/Events/ReviewCreatedDomainEvent.cs" />
+      <File FileName="src/Bookify.Domain/Reviews/Rating.cs" />
+      <File FileName="src/Bookify.Domain/Reviews/Review.cs" />
+      <File FileName="src/Bookify.Domain/Reviews/ReviewErrors.cs" />
+      <File FileName="src/Bookify.Domain/Shared/Currency.cs" />
+      <File FileName="src/Bookify.Domain/Shared/Money.cs" />
+      <File FileName="src/Bookify.Domain/Users/Events/UserCreatedDomainEvent.cs" />
+      <File FileName="src/Bookify.Domain/Users/Email.cs" />
+      <File FileName="src/Bookify.Domain/Users/FirstName.cs" />
+      <File FileName="src/Bookify.Domain/Users/IUserRepository.cs" />
+      <File FileName="src/Bookify.Domain/Users/LastName.cs" />
+      <File FileName="src/Bookify.Domain/Users/User.cs" />
+      <File FileName="src/Bookify.Application/Abstractions/Behaviors/LoggingBehavior.cs" />
+      <File FileName="src/Bookify.Application/Abstractions/Behaviors/ValidationBehavior.cs" />
+      <File FileName="src/Bookify.Application/Abstractions/Clock/IDateTimeProvider.cs" />
+      <File FileName="src/Bookify.Application/Abstractions/Email/IEmailService.cs" />
+      <File FileName="src/Bookify.Infrastructure/Email/EmailService.cs" />
+      <File FileName="src/Bookify.Application/Bookings/GetBooking/BookingResponse.cs" />
+      <File FileName="src/Bookify.Application/Bookings/ReserveBooking/ReserveBookingCommand.cs" Line="1" Column="1" />
+      <File FileName="src/Bookify.Application/Bookings/ReserveBooking/ReserveBookingCommandHandler.cs" Line="76" Column="24" />
+      <File FileName="src/Bookify.Infrastructure/Repositories/BookingRepository.cs" />
+      <File FileName="src/Bookify.Application/Bookings/ReserveBooking/ReserveBookingCommandValidator.cs" />
+      <File FileName="src/Bookify.Application/Users/LogInUser/AccessTokenResponse.cs" Line="1" Column="1" />
+      <File FileName="src/Bookify.Application/Users/LogInUser/LogInUserCommand.cs" Line="1" Column="1" />
+      <File FileName="src/Bookify.Application/Users/LogInUser/LogInUserCommandHandler.cs" Line="1" Column="1" />
+      <File FileName="src/Bookify.Application/Bookings/CancelBooking/CancelBookingCommand.cs" />
+      <File FileName="src/Bookify.Infrastructure/Authentication/AdminAuthorizationDelegatingHandler.cs" />
+      <File FileName="src/Bookify.Infrastructure/Data/SqlConnectionFactory.cs" />
+      <File FileName="src/Bookify.Infrastructure/Data/DateOnlyTypeHandler.cs" />
+      <File FileName="src/Bookify.Infrastructure/Configurations/ApartmentConfiguration.cs" Line="1" Column="1" />
+      <File FileName="src/Bookify.Infrastructure/Configurations/UserConfiguration.cs" />
+      <File FileName="src/Bookify.Infrastructure/Repositories/Repository.cs" />
+      <File FileName="src/Bookify.Infrastructure/Repositories/ApartmentRepository.cs" />
+      <File FileName="src/Bookify.Infrastructure/ApplicationDbContext.cs" Line="24" Column="1" />
+      <File FileName="src/Bookify.Infrastructure/Authentication/KeycloakOptions.cs" />
+      <File FileName="docker-compose.yml" Line="1" Column="1" />
+      <File FileName="docker-compose.override.yml" />
+      <File FileName="src/Bookify.Api/Dockerfile" />
+      <File FileName="../../../../Applications/Visual Studio.app/Contents/MonoBundle/AddIns/MonoDevelop.Docker/MSbuild/Sdks/Microsoft.Docker.Sdk/build/Microsoft.VisualStudio.Docker.Compose.targets" />
+      <File FileName="src/Bookify.Application/Bookings/ReserveBooking/BookingReservedDomainEventHandler.cs" Line="1" Column="1" />
+      <File FileName="src/Bookify.Infrastructure/DependencyInjection.cs" Line="23" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bookify" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="Bookify.Infrastructure" expanded="True">
+                <Node name="Configurations" expanded="True">
+                  <Node name="ApartmentConfiguration.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="docker-compose" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

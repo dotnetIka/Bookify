@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "3AIZ56MjCYD07+YTrzLJSGPXcRP7Inn1Q3RRFbu0BrMXwS8Lh3atBi655akzXT3Mzu1xYQQoNMrbGBk0CZ9rZQ==",
+  "success": true,
+  "projectFilePath": "/Users/irakli/Downloads/Bookify/src/Bookify.Application/Bookify.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/irakli/.nuget/packages/dapper/2.0.143/dapper.2.0.143.nupkg.sha512",
+    "/Users/irakli/.nuget/packages/fluentvalidation/11.6.0/fluentvalidation.11.6.0.nupkg.sha512",
+    "/Users/irakli/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.6.0/fluentvalidation.dependencyinjectionextensions.11.6.0.nupkg.sha512",
+    "/Users/irakli/.nuget/packages/mediatr/12.1.1/mediatr.12.1.1.nupkg.sha512",
+    "/Users/irakli/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/irakli/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/irakli/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.1/microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
